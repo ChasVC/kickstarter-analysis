@@ -50,8 +50,8 @@ As a daily user of Excel and functions not covered in class, I've had to proacti
 
 - Compare Louise's play "Fever" to similar campaing types that achieved greater success. 
 
-- Wider views of time, specifically one that rolls up starts by Quarter.
+- Perspectives that help viewer determine in there is relationship between number of doners, and campaign success. This may help influence marketing -- cast wide nets, or send finely custom messages to a small number of patrons?  
 
-- Add a calculation to determine Campaign Length, compare this against other factors. Help understand if "Fever" campaing was too short?
+- Add a calculation to determine Campaign Length, compare this against other factors. Help understand if "Fever" campaign may have done even better if it was longer? 
 
 
