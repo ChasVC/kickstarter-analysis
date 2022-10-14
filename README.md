@@ -1,33 +1,37 @@
-# Kickstarting with Excel
+<!---
+these are the  tags necessary to comment out! 
+-->
 
-\## Overview of Project
 
-Module 1 Challenge - Anlysis and Summary of Kickstarter Fundraising Data
+<!---# Kickstarting with Excel-->
 
-\### Purpose
+# Overview of Project
+
+## Module 1 Challenge - Anlysis and Summary of Kickstarter Fundraising Data
+
+### Purpose
 
 To confirm learnings from the initial weeks of DS Bootcamp, specifically those revolving around Excel and Github - including "My First ReadMe", which will be nowhere near as brilliant as [these gems](https://github.com/matiassingers/awesome-readme).
 
-\## Analysis and Challenges
+## Analysis and Challenges
 
-\### Analysis of Outcomes Based on Launch Date
+<!---\### Analysis of Outcomes Based on Launch Date-->
 
-\### Analysis of Outcomes Based on Goals
+<!---\\### Analysis of Outcomes Based on Goals-->
 
-\### Challenges and Difficulties Encountered
+### Challenges and Difficulties Encountered
 
 As a daily user of Excel and functions not covered in class, I've had to proactively resist using my day-to-day methodologies. I'm aiming to complete assignments exactly as instructed, and disabling a bit of muscle memory.
 
-\## Results
+## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+### What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-`	`1. Campaigns started during Q2 perform slightly better than those started during Q's 1, 2, and 4.  These points hold true for "Theater" projects specifically, and all project types 	generally.
+1. Campaigns started during Q2 perform slightly better than those started during Q's 1, 2, and 4.  These points hold true for "Theater" projects specifically, and all project types 	generally.
 
-`	`2. For Theater campaigns, Q2 and Q3 are more popular start periods than Qs 1 and 4.
+2. For Theater campaigns, Q2 and Q3 are more popular start periods than Qs 1 and 4.
 
-
-- What can you conclude about the Outcomes based on Goals?
+### What can you conclude about the Outcomes based on Goals?
 
 -- Results are mixed with most campaigns having a roughly 45% chance of hitting thier threshold for "Success". While the prescribed graph ("Outcomes Based on Goal") indicates much better performance for campaings with high-dollar targets, the visual may be deceiving as there were far fewer campaigns at the upper dollar tiers. Campaigns with a target of $1,000 - $4,999 where most successful.
 
