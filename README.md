@@ -41,7 +41,7 @@ As a daily user of Excel and functions not covered in class, I've had to proacti
 
 ### What are some limitations of this dataset?
 
-- With the most recent campaign start date being March of 2017, the date is a several years old and may not reflect current market behaviors.
+- The data is a several years old and may not reflect current market behaviors. 
 
 - No information is included that speaks to marketing efforts for the campaings, so there is no way to tell, for example, if campaigns failed for lack of promotional effort. There may be more to the story than the data allows us to ascertain.
 
@@ -52,6 +52,6 @@ As a daily user of Excel and functions not covered in class, I've had to proacti
 
 - Wider views of time, specifically one that rolls up starts by Quarter.
 
-- Campaign length VS various success/failure measures! Help the viewer determine the sweetspots!
+- Campaign Length vs various success/failure measures. Help the viewer determine the sweetspots!
 
 
