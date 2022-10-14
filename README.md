@@ -46,12 +46,12 @@ As a daily user of Excel and functions not covered in class, I've had to proacti
 - No information is included that speaks to marketing efforts for the campaings, so there is no way to tell, for example, if campaigns failed for lack of promotional effort. There may be more to the story than the data allows us to ascertain.
 
 
-#### What are some other possible tables and/or graphs that we could create?
+### What are some other possible tables and/or graphs that we could create?
 
-`	`-- Comparisons between Categories and Subcategories, visualizations that help to surface the most consistenly underperforming varients -- helpful when Orgs need to eliminate wasted 	efforts.
+- Comparisons between Categories and Subcategories, visualizations that help to surface the most consistenly underperforming varients -- helpful when Orgs need to eliminate wasted 	efforts.
 
-`	`-- Wider views of time, specifically one that rolls up starts by Quarter.
+- Wider views of time, specifically one that rolls up starts by Quarter.
 
-`	`-- Campaign length VS various success/failure measures! Help the viewer determine the sweetspots!
+- Campaign length VS various success/failure measures! Help the viewer determine the sweetspots!
 
 
