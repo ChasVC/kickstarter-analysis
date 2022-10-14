@@ -48,10 +48,10 @@ As a daily user of Excel and functions not covered in class, I've had to proacti
 
 ### What are some other possible tables and/or graphs that we could create?
 
-- Comparisons between Categories and Subcategories, visualizations that help to surface the most consistenly underperforming varients -- helpful when Orgs need to eliminate wasted 	efforts.
+- Compare Louise's play "Fever" to similar campaing types that achieved greater success. 
 
 - Wider views of time, specifically one that rolls up starts by Quarter.
 
-- Campaign Length vs various success/failure measures. Help the viewer determine the sweetspots!
+- Add a calculation to determine Campaign Length, compare this against other factors. Help understand if "Fever" campaing was too short?
 
 
